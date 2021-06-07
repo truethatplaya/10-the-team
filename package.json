@@ -1,0 +1,27 @@
+{
+  "name": "10-the-team",
+  "version": "1.0.0",
+  "description": "team generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.0",
+    "jest": "^27.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truethatplaya/10-the-team.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truethatplaya/10-the-team/issues"
+  },
+  "homepage": "https://github.com/truethatplaya/10-the-team#readme"
+}
